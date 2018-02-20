@@ -3,7 +3,55 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Count Working Days", "1. Count Working Days\1. Count Working Days.csproj", "{091DAB0F-9D46-4EAC-92A2-14C8AFD3691C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Advertisement Message", "2. Advertisement Message\2. Advertisement Message.csproj", "{E01C4ADE-17A5-41F3-A5E8-8E0545DC7E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Intersection of Circles", "3. Intersection of Circles\3. Intersection of Circles.csproj", "{3843EEE4-DE28-4DC6-A03D-F919DB243177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Average Grades", "4. Average Grades\4. Average Grades.csproj", "{76DB29D1-B7EC-40D2-B4E4-F6A7B12103D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{B875B4F8-6164-420E-9123-89D23DE59BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Book Library", "5. Book Library\5. Book Library.csproj", "{835A44CE-B9F4-4C19-8CD7-599583F40A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Book Library Modification", "6. Book Library Modification\6. Book Library Modification.csproj", "{F340419D-A56C-41CD-8BEF-03719D339021}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{091DAB0F-9D46-4EAC-92A2-14C8AFD3691C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091DAB0F-9D46-4EAC-92A2-14C8AFD3691C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091DAB0F-9D46-4EAC-92A2-14C8AFD3691C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091DAB0F-9D46-4EAC-92A2-14C8AFD3691C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01C4ADE-17A5-41F3-A5E8-8E0545DC7E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01C4ADE-17A5-41F3-A5E8-8E0545DC7E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01C4ADE-17A5-41F3-A5E8-8E0545DC7E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01C4ADE-17A5-41F3-A5E8-8E0545DC7E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3843EEE4-DE28-4DC6-A03D-F919DB243177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3843EEE4-DE28-4DC6-A03D-F919DB243177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3843EEE4-DE28-4DC6-A03D-F919DB243177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3843EEE4-DE28-4DC6-A03D-F919DB243177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DB29D1-B7EC-40D2-B4E4-F6A7B12103D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DB29D1-B7EC-40D2-B4E4-F6A7B12103D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DB29D1-B7EC-40D2-B4E4-F6A7B12103D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DB29D1-B7EC-40D2-B4E4-F6A7B12103D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B875B4F8-6164-420E-9123-89D23DE59BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B875B4F8-6164-420E-9123-89D23DE59BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B875B4F8-6164-420E-9123-89D23DE59BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B875B4F8-6164-420E-9123-89D23DE59BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835A44CE-B9F4-4C19-8CD7-599583F40A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835A44CE-B9F4-4C19-8CD7-599583F40A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835A44CE-B9F4-4C19-8CD7-599583F40A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835A44CE-B9F4-4C19-8CD7-599583F40A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F340419D-A56C-41CD-8BEF-03719D339021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F340419D-A56C-41CD-8BEF-03719D339021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F340419D-A56C-41CD-8BEF-03719D339021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F340419D-A56C-41CD-8BEF-03719D339021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
